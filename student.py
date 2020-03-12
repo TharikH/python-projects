@@ -32,4 +32,3 @@ for i in range(n*6-1):
         continue
     f.write(str(s[i])+"\n")
 f.close()
-
